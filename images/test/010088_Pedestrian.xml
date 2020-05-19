@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2019.03.05, PLimages, ES2</folder>
+	<filename>010088_Pedestrian.JPEG</filename>
+	<path>C:\Cross-Safe\2019.03.05, PLimages, ES2\010088_Pedestrian.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>walk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1255</xmin>
+			<ymin>352</ymin>
+			<xmax>1334</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

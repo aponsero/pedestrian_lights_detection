@@ -1,0 +1,50 @@
+<annotation>
+	<folder>2019.03.15, PLimages, TN</folder>
+	<filename>012347_Pedestrian.JPEG</filename>
+	<path>C:\Users\tahaye man\Desktop\2019.03.15, PLimages, TN\2019.03.15, PLimages, TN\012347_Pedestrian.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dont walk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3569</xmin>
+			<ymin>1089</ymin>
+			<xmax>3605</xmax>
+			<ymax>1148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>off</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3617</xmin>
+			<ymin>1095</ymin>
+			<xmax>3648</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>walk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>496</ymin>
+			<xmax>859</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

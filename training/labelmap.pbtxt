@@ -1,0 +1,10 @@
+item {
+    id: 1
+    name: 'Dont walk'
+}item {
+    id: 2
+    name: 'walk'
+}item {
+    id: 3
+    name: 'off'
+}

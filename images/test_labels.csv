@@ -1,0 +1,6 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+010090_Pedestrian.JPEG,3648,2736,dont walk,1329,1098,1377,1151
+010093_Pedestrian.JPEG,3648,2736,dont walk,2168,808,2232,864
+010089_Pedestrian.JPEG,3648,2736,walk,931,699,1025,799
+010091_Pedestrian.JPEG,3648,2736,dont walk,229,763,273,810
+010088_Pedestrian.JPEG,3648,2736,walk,1255,352,1334,443
